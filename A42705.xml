@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A faithfull testimony for the Lord wherein is proclaimed the mighty day of his power. Also, an exhortation of love unto all young children, with young men and maidens, whose hearts are tender towards the Lord. By one whom it pleased the Lord to manifest himself unto now in the dayes of my youth, and hath given me cause never to forget him, whom it pleased to call me from amongst my relations, to bear testimony unto his name, when I was about eleven years of age.</title>
+            <author>J. G. (John Gibson)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42705</idno>
+            <idno type="STC">Wing G670</idno>
+            <idno type="STC">ESTC R213344</idno>
+            <idno type="EEBO-CITATION">99825760</idno>
+            <idno type="PROQUEST">99825760</idno>
+            <idno type="VID">30147</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42705)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30147)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1793:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A faithfull testimony for the Lord wherein is proclaimed the mighty day of his power. Also, an exhortation of love unto all young children, with young men and maidens, whose hearts are tender towards the Lord. By one whom it pleased the Lord to manifest himself unto now in the dayes of my youth, and hath given me cause never to forget him, whom it pleased to call me from amongst my relations, to bear testimony unto his name, when I was about eleven years of age.</title>
+                  <author>J. G. (John Gibson)</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>One whom it pleased the Lord to manifest himself unto now in the dayes of my youth = John Gibson.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30147:1"/>
+            <pb facs="tcp:30147:1" rendition="simple:additions"/>
+            <p>A Faithfull Teſtimony FOR THE LORD: Wherein is PROCLAIM<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>D THE Mighty Day of his Power. ALSO,</p>
+            <p>An Exhortation of love unto all young Chil<g ref="char:EOLhyphen"/>dren, with young Men and Maidens, whoſe hearts are tender towards the Lord.</p>
+            <p>By One whom it pleaſed the Lord to manifeſt him<g ref="char:EOLhyphen"/>ſelf unto now in the dayes of my youth, and hath given me cauſe never to forget him, whom it pleaſed to call me from amongſt my Relations, to bear Teſtimony unto his Name, when I was about Eleven years of Age.</p>
+            <p>Who am known to the World by the name of <hi>John Gibſon.</hi>
+            </p>
+            <p>
+               <hi>He that anſwereth to a matter before he hears it, is as if he caſt a ſtone up into the Air, and it falleth upon his own head.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="to_the_reader">
+            <pb facs="tcp:30147:2"/>
+            <pb n="1" facs="tcp:30147:2" rendition="simple:additions"/>
+            <head>To THE READER.</head>
+            <p>FRiend, whoſoever thou art that reads this Teſtimony or Exhortation, read it without prejudice in thy heart, and deſpiſe it not becauſe of my youth, for the Lord can ma<g ref="char:EOLhyphen"/>nifeſt himſelf unto whom he pleaſes, and make inſtruments for his praiſe of whom he will; and therefore <hi>how excellent is his name in all the earth, who hath ſet his glory above the Heavens, and out of the mouths of babes and ſucklings haſt thou ordained ſtrength becauſe of thine enemies, that thou mighteſt ſtill the ene<g ref="char:EOLhyphen"/>my and the avenger, Pſal.</hi> 8.12. <hi>I thank thee O Father Lord of heaven and earth, becauſe thou haſt hid theſe things from the wiſe and prudent, and haſt revealed them even unto babes, Mat.</hi> 11.25. <hi>Let no man deſpiſe thee becauſe of thy youth, but be thoa an ex<g ref="char:EOLhyphen"/>ample of the believers, in word, in converſation, in charity, in ſpirit, in faith, in purity,</hi> 1 <hi>Tim.</hi> 4.12 And ſo read with underſtanding, and without prejudice, that thou mayeſt receive the benefit of it, &amp;c.</p>
+            <p>This is the mighty day of the Lords power, and of his hea<g ref="char:EOLhyphen"/>venly love &amp; mercy, unto the Sons &amp; Daughters of men; wherein he hath made bare his arm, in the hearts of his people, and hath cauſed the light of his glory to ſhine, and the beauty of his countenance to be lifted up amongſt the Sons of <hi>Sion,</hi> and the Daughters of <hi>Jeruſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em,</hi> which cauſes our ſouls to rejoyce, and our hearts to <hi>be more glad; than they who have had great increaſe of corn, oyl, and wine,</hi> &amp;c.</p>
+            <p>And therefore the day of true rejoycing is come unto all the mourners in <hi>Sion,</hi> and true gladneſs I do proclaime unto all the heavy-hearted in <hi>Jeruſalem;</hi> for the Lord, the mighty God of Heaven and Earth is riſen and ariſing in his mighty power, and in his irreſiſtable ſtrength, to break down all the powers of darkneſſe, and all the ſtrong holds of Satan, wherein he hath lodged this many yeares, and made warr with the Lamb, and oppreſſed the juſt in many thouſands: But now is the Lord riſen in his mighty power to plead the cauſe of his oppreſſed ſeed, which hath been deeply oppreſſed both inwardly and outwardly, by, and in many thouſands, and which hath been
+<pb n="2" facs="tcp:30147:3" rendition="simple:additions"/>ſore weighed, and grievouſly loaden, and deeply oppreſſed with the heavy clods of the earth, which the heart of man hath been affected with, and drawn after, which hath cauſed the innocent ſeed of life to ſuffer under an heavy and grievous burthen; the remembrance of which hath often broken my heart, and cauſed me to cry out in the integrity thereof, and in the bitterneſſe of my Spirit, O Lord, O Lord wilt thou not haſten the deliverance of thy ſeed, and make a ſpeedy work in the earth, and cut it ſhort in righteouſneſſe, for thy names ſake, and for thy glory, and for thy ſeeds ſake which lyeth in bor<g ref="char:EOLhyphen"/>dage, and in ſtraight captivity both inwardly and outward<g ref="char:EOLhyphen"/>ly? and thus have I been conſtrained to cry often unto the Lord even in my infancy, and this cry yet remains in my heart: O Lord, O Lord, when wilt thou remove the Rod of the wick<g ref="char:EOLhyphen"/>ed from off the back of the righteous? O let it not alwayes lye upon them: This cry hath often run through me unto the Lord, and I have often received an anſwer from the Lord, and for the ſeeds ſake am I conſtrained to publiſh it.</p>
+            <p>Thus ſaith the Lord, concerning the ſeed which is heir of the Kingdome, and of the promiſed Land, I can never forget it, for it is as the apple of mine eye, and its very tender in my ſight; though a woman may forget her ſucking child, yet I can never forget that babe which I have begotten though it be yet unbtought forth, and I will remember all my promiſes ſaith the Lord, which I promiſed unto my ſervant <hi>Abraham</hi> in the dayes of old, and in the years paſt, concerning his ſeed, that <hi>in his ſeed, ſhall all the Nations of the earth be bleſſed, Gen.</hi> 1<g ref="char:punc">▪</g>2.3. Chap. 28.28. <hi>And I have remembred</hi> (ſaith the Lord) <hi>all the afflictions of my people,</hi> and all the ſufferings of my inno<g ref="char:EOLhyphen"/>cent ones, and there ſhall not one of them be forgotten in the day of account, for they are all recorded in a book not writ<g ref="char:EOLhyphen"/>ten with ink nor pen, but with my Spirit, ſaith the Lord; and I will remove the rod of the wicked from off the backs of the righteous, in my time, which ſhall be in ſeaſon, which time and ſeaſon ſhall be a bleſſed and a joyful time unto all that fear and obey my name, and wait in patience to ſee it accompli<g ref="char:EOLhyphen"/>ſhed; but it ſhall be a terrible and a dreadful day unto all the oppoſers of me and my people, and this day ſhall come as a thief in the night, when men are unaware of it; and my own
+<pb n="3" facs="tcp:30147:3" rendition="simple:additions"/>out-ſtretched arm ſhall bring it, and the glory, and the ho<g ref="char:EOLhyphen"/>nour of it ſhall redown unto my name, ſaith the Lord. And this anſwer hath been often made unto me by the Spirit of the Lord, which hath often refreſhed my ſoul, and cauſed my heart to be glad &amp; rejoyce, even with joy unſpeakable, and hath filled my mouth with his heavenly praiſes: And therefore, you well-beloved of the Lord, and you choſen of the mighty God of <hi>Jacob,</hi> rejoyce in the Lord with me, for the fathers love is very great, and dayly extends it ſelf to you, and to all that truly wait upon his name: How hath he filled our cups, &amp; made them to overflow? How hath he made, even that which was barren, to bring forth fruits abundantly, to his own glory, and to the rejoycing of our ſouls, and to the exalting of his own name, whoſe name muſt be lifted up, and exalted above every name in the world, and <hi>at his name must every knee be made to bow,</hi> and every tongue to confeſſe; for he is the King of Kings, and the Supream of Supreams, and the Metropolitan of Me<g ref="char:EOLhyphen"/>tropolitans, and he muſt rule over all in his Supreamcy, and in his Kingly Majeſty, and all the Nations in the world muſt be bowed before him, and all the proud and lofty muſt be ſub<g ref="char:EOLhyphen"/>dued under his feet.</p>
+            <p>And therefore I dearly exhort all friends unto whom this may come, as the exhortation of one of the leaſt of all your Brethren, that you all be ſtayed upon the living God, with your hearts and minds and affections alwayes exerciſed upon him, that you may all ſtand immoveable in this day of Gods tryall, wherein he will try all fleſh as with fire, and his ſeed, as Gold is tryed in the furnace, and as Silver is tryed in the Refiners fire; So will the Lord try his ſeed, that when it comes forth, it may be purer than Gold ſeven times tryed.</p>
+            <p>And dearly beloved Friends in the Lord, though we have not been unacquainted with tryals, tribulations and afflictions, ever ſince the day that the Lord redeemed us out of ſpiritual <hi>Egypt,</hi> oh! becauſe of this let none of you get into a falſe eaſe, or into a wrong ſecurity, and ſo think that the ſtorms are over, and now thou mayeſt do what thou wilt, and walk whi<g ref="char:EOLhyphen"/>ther thou wouldeſt; Oh dear Friends! take heed of this care<g ref="char:EOLhyphen"/>leſneſſe, or of this falſe eaſe, leaſt the ſtorm take thee when
+<pb n="4" facs="tcp:30147:4" rendition="simple:additions"/>thou art not ready for it; for in the fear of the Lord I do de<g ref="char:EOLhyphen"/>clare that the ſtorm is not yet over, there is yet a ſharper ſtorm than hath been yet, which muſt try the weighty ſeed, that the chaff and all the droſſe may be all purged forth, for there is yet a fire to be paſt through, before <hi>Sion</hi> be redeemed, the which redemption muſt be through great judgment, and the Lord is haſtning it, for it cometh ſuddainly.</p>
+            <p>And this hath the Lord often conſtrained me to declare a<g ref="char:EOLhyphen"/>mong his people, which is a faithful teſtimony for his name: And therefore all dear Friends, dwell in the ſavoury life of God, and feel his power to carry you on in all your tryals, and know the workings thereof in all your hearts, to be as a Sword, a Fire, and a Hammer, to cut down, burn up, and hammer down all that is contrary to the pure will and mind of God in you, and that will ſtand for ever, and will be a more ſure Pro<g ref="char:EOLhyphen"/>phet unto you than all Prophets or prophecies without, though though they are ſerviceable in their places, but <hi>we have a more ſure word of propheſy, unto the which you all do well to take heed, as unto a light which ſhineth in a dark place, until the day dawn, and the day-ſtar ariſe in your hearts,</hi> which will give unto you the knowledge of God in the face of Jeſus Chriſt, the which knowledge is life eternal unto all that come to know him a<g ref="char:EOLhyphen"/>right: And ſo all dear Friends whom the Lord hath called and choſen, and begotten and brought forth in the life immortal, know him who is inviſible, and let you ſtrength ſtand in him, and your confidence be in his name, for <hi>his name is a ſtrong <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ower, and the righteous do fly to it,</hi> and there they are ſafe from all the wrath and malice of all the Kings and Potentates in the world, <hi>&amp;c.</hi>
+            </p>
+            <p>And ſo all dear Friends meet often together in the name of the Lord, for in that did the Lord manifeſt himſelf unto us at the firſt, and in that doth the Lord manifeſt himſelf unto us now, even in our meeting together in his name, and if any declare a<g ref="char:EOLhyphen"/>ny other Doctrine, or any other Goſpel then hath already been preached and declared unto you, let them be accurſed, what<g ref="char:EOLhyphen"/>ſoever form or pretence they come under.</p>
+            <closer>
+               <signed>And this is my living Teſtimony for the Lord. J. G.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="5" facs="tcp:30147:4" rendition="simple:additions"/>
+            <p>Oh you that are young and tender in years, <hi>Remember the Lord your Creator now in the dayes of your youth,</hi> and turn from the vanities of this world, and take no delight in them, for they muſt all periſh and come to nought, with all the treaſures and delectable things therein; and therefore this is my counſell and advice unto all that are young and tender in yeares, who have any true deſires to know peace with God, to return out of all the vanities, pleaſures, joys, and delights in the world, and rather chooſe to enter into the houſe of mourning, than in<g ref="char:EOLhyphen"/>to the houſe of laughter; for this I know, that thou mayeſt find more peace, joy, and conſolation in thy ſoul in the houſe of mourning, than in the houſe of laughter, for <hi>ſorrow is better than laughter, and by the ſadneſſe of the countenance the heart is made better, Eccleſ.</hi> 2.3. And this I can truly ſay, that true ſorrow brings true joy, but as for laughter I count it madneſſe, and for mirth, what doth it? <hi>Eccleſ.</hi> 2.2. And therefore thou that art young and tender in years, who truly breaths after the Lord, let it be thy whole delight to ſeek after him, with all thy ſoul, with all thy heart and ſtrength, for he will be found of them that ſeek after him; but if thou forget the Lord now when thou art young, and ſeek not after him, the time will come, where<g ref="char:EOLhyphen"/>in thou wilt be forced to ſay, O that I had remembred the Lord when I was young, and ſought after him with all my ſtrength! Oh that I had forſaken my father and mother, ſiſters and brothers, and turned unto the Lord! Thus wilt thou be forced to cry who forgets the Lord now when thou art young, yea, when it will be too late for thee to repent; though ſome may object and ſay, May I not return unto the Lord and not forſake my neer relations which are ſo dear unto me? Anſwer, If thou be worthy of Chriſt thou muſt be willing to forſake thy father and mother, and whatſoever is dear and neer unto thee, if thou be worthy of Chriſt, for it is ſaid, <hi>a man muſt for<g ref="char:EOLhyphen"/>ſake his father and mother, and cleave unto his wife.</hi> But it is ſaid, a man muſt forſake his father and mother, ſiſters and brothers, wife and children, lands and livings, and whatſoe<g ref="char:EOLhyphen"/>ver is dear or neer unto him, and cleave unto Chriſt, if he be worthy of him, yea, and his very life if it be required of him, for <hi>he that ſeeks to ſave his life ſhall loſe it, but he that loſes his life for Chriſts ſake ſhall ſave it,</hi> &amp;c.</p>
+            <pb n="6" facs="tcp:30147:5" rendition="simple:additions"/>
+            <p>But ſome may Object and ſay, I am young, and if I forſake my father and mother, or neer relations, I know not what would becom of me, for I ſhould be undon, they would deprive me of my inheritance or portion, and I might ruine my ſelf for the ſake of Chriſt. Anſwer, They who forſake father and mother, ſiſters and brothers, wife and children, lands or liv<g ref="char:EOLhyphen"/>ings for Chriſts ſake, ſhall never loſe their reward; for all the rewards and inheritances, thrones and crowns in this world, muſt return unto the duſt from whence they came, but if thou have aſſurance of that inheritance and portion which en<g ref="char:EOLhyphen"/>dures for ever, this will make thy ſoul rejoyce, and thy heart more glad than all the inheritances or thrones and crowns in this world, if thou couldeſt obtain them all; and if all thy relations according to the fleſh ſhould caſt thee out and deny thee, if it be for Chriſts ſake thou wilt never be forſaken; <hi>I have been young, but now am old,</hi> (ſaid <hi>David) and I never ſaw the righteous forſaken, nor its ſeed beg its bread:</hi> For they who firſt ſeek the Kingdom of God, and the righteouſneſſe thereof, the Lord will add all other things unto them; and ſo let none ſay I am young, and I have time enough yet, I may ſpend ma<g ref="char:EOLhyphen"/>ny yeares in the joyes and delights of this world, and then when I wax old I will ſeek the Lord: Oh how doeſt thou know how ſoon the Lord may ſmite thee with ſickneſſe, and call thee to an account? or what knoweſt thou when thou goeſt to bed, whether ever thou may<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt riſe with thy life again, or no? and therefore let none ſay, I have a Farm to take, or Oxen to try, or a wife to marry, or a husband, and when this is done then I will return to the Lord; oh ſay not ſo in thine heart, but now while thou haſt time, and while the day is light, and while the Lord calls, ſeek him, and while he is to be found, for <hi>the night is coming, wherein no man can work,</hi> and it haſtens on apace.</p>
+            <closer>
+               <signed>By One who deſires the eternal happineſs of all that deſires to ſerve the Lord. J. G.</signed>
+               <dateline>Written in <hi>London</hi> the 7th day of <date>the 8th Month, 1663.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:30147:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
